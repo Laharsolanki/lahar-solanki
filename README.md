@@ -1,3 +1,4 @@
 # lahar-solanki
 this is my first git repository
-lahar
+<br>
+Author - Lahar Solanki
